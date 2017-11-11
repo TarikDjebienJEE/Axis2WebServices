@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/modules
+END
+mex-1.6.2.mar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/modules/mex-1.6.2.mar
+END
+ping-1.6.2.mar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/modules/ping-1.6.2.mar
+END
+modules.list
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/modules/modules.list
+END
+mtompolicy-1.6.2.mar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/modules/mtompolicy-1.6.2.mar
+END
+scripting-1.6.2.mar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/modules/scripting-1.6.2.mar
+END
+addressing-1.6.2.mar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/modules/addressing-1.6.2.mar
+END
+soapmonitor-1.6.2.mar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/modules/soapmonitor-1.6.2.mar
+END

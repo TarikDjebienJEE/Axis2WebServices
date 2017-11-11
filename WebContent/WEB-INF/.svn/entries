@@ -1,0 +1,84 @@
+10
+
+dir
+17
+https://cara-tp-tdn-ser.googlecode.com/svn/trunk/Axis2WebServices/WebContent/WEB-INF
+https://cara-tp-tdn-ser.googlecode.com/svn
+
+
+
+2013-02-17T00:34:03.086337Z
+17
+tarik.djebien@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+88e4a3fb-b551-8b54-288f-e8c74404a96e
+
+
+
+
+
+
+0
+
+classes
+dir
+
+conf
+dir
+
+lib
+dir
+
+modules
+dir
+
+services
+dir
+
+web.xml
+file
+
+
+
+
+2013-02-16T23:38:57.000000Z
+ccf5c717cd84bcb1145432a6af80e88e
+2013-02-17T00:34:03.086337Z
+17
+tarik.djebien@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1764
+

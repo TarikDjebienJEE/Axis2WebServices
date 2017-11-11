@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/classes/org/apache/axis2/webapp
+END
+AdminAgent.class
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/classes/org/apache/axis2/webapp/AdminAgent.class
+END
+AxisAdminServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/classes/org/apache/axis2/webapp/AxisAdminServlet.class
+END

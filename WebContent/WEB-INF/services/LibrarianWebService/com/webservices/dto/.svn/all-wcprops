@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/19/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/dto
+END
+Book.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/19/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/dto/Book.class
+END
+Library.class
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/dto/Library.class
+END
+User.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/dto/User.class
+END

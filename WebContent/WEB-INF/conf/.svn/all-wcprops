@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/conf
+END
+commons-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/conf/commons-logging.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/conf/log4j.properties
+END
+axis2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/conf/axis2.xml
+END
+axis2.policy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/conf/axis2.policy
+END

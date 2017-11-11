@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/17/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices
+END
+LibrarianWebServiceStub$3.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$3.class
+END
+LibrarianWebServiceStub$GetUsersResponse$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetUsersResponse$Factory.class
+END
+LibrarianWebServiceStub$4.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$4.class
+END
+LibrarianWebServiceStub$DeleteBook$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$DeleteBook$Factory.class
+END
+LibrarianWebServiceStub$GetBooks$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetBooks$Factory.class
+END
+LibrarianWebServiceStub$5.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$5.class
+END
+LibrarianWebServiceStub$GetUserDescription.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetUserDescription.class
+END
+LibrarianWebServiceStub$6.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$6.class
+END
+LibrarianWebServiceStub$7.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$7.class
+END
+LibrarianWebServiceStub$DeleteUserResponse$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$DeleteUserResponse$Factory.class
+END
+LibrarianWebServiceStub$GetBookDescriptionResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetBookDescriptionResponse.class
+END
+LibrarianWebServiceStub$8.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$8.class
+END
+LibrarianWebServiceStub$9.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$9.class
+END
+LibrarianWebServiceStub$GetUserDescription$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetUserDescription$Factory.class
+END
+LibrarianWebServiceStub$GetBookDescriptionResponse$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetBookDescriptionResponse$Factory.class
+END
+LibrarianWebServiceStub$ExtensionMapper.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$ExtensionMapper.class
+END
+LibrarianWebServiceStub$SayHelloResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$SayHelloResponse.class
+END
+LibrarianWebServiceStub$User.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$User.class
+END
+LibrarianWebServiceStub$SayHelloResponse$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$SayHelloResponse$Factory.class
+END
+LibrarianWebServiceStub$AddBook.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$AddBook.class
+END
+LibrarianWebServiceStub$User$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$User$Factory.class
+END
+LibrarianWebServiceStub$GetUsers.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetUsers.class
+END
+LibrarianWebServiceStub$AddUserResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$AddUserResponse.class
+END
+LibrarianWebServiceStub$DeleteBookResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$DeleteBookResponse.class
+END
+LibrarianWebServiceStub$GetBooksResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetBooksResponse.class
+END
+LibrarianWebServiceStub$AddBook$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$AddBook$Factory.class
+END
+LibrarianWebServiceStub$DeleteUser.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$DeleteUser.class
+END
+LibrarianWebServiceStub$GetUsers$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetUsers$Factory.class
+END
+LibrarianWebServiceStub$AddUserResponse$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$AddUserResponse$Factory.class
+END
+LibrarianWebServiceStub$DeleteBookResponse$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$DeleteBookResponse$Factory.class
+END
+LibrarianWebServiceStub$GetBooksResponse$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetBooksResponse$Factory.class
+END
+LibrarianWebService.class
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebService.class
+END
+LibrarianWebServiceStub$DeleteUser$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$DeleteUser$Factory.class
+END
+LibrarianWebServiceStub$GetUserDescriptionResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetUserDescriptionResponse.class
+END
+LibrarianWebServiceStub$GetBookDescription.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetBookDescription.class
+END
+LibrarianWebServiceStub$GetUserDescriptionResponse$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetUserDescriptionResponse$Factory.class
+END
+LibrarianWebServiceStub$GetBookDescription$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetBookDescription$Factory.class
+END
+LibrarianWebServiceStub$SayHello.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$SayHello.class
+END
+LibrarianWebServiceStub$Book.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$Book.class
+END
+LibrarianWebServiceStub.class
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub.class
+END
+LibrarianWebServiceStub$SayHello$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$SayHello$Factory.class
+END
+LibrarianWebServiceCallbackHandler.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceCallbackHandler.class
+END
+LibrarianWebServiceStub$Book$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$Book$Factory.class
+END
+LibrarianWebServiceStub$AddBookResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$AddBookResponse.class
+END
+LibrarianWebServiceStub$AddUser.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$AddUser.class
+END
+LibrarianWebServiceStub$GetUsersResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetUsersResponse.class
+END
+LibrarianWebServiceStub$DeleteBook.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$DeleteBook.class
+END
+LibrarianWebServiceStub$GetBooks.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$GetBooks.class
+END
+LibrarianWebServiceStub$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$1.class
+END
+LibrarianWebServiceStub$AddBookResponse$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$AddBookResponse$Factory.class
+END
+LibrarianWebServiceStub$DeleteUserResponse.class
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$DeleteUserResponse.class
+END
+LibrarianWebServiceStub$2.class
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$2.class
+END
+LibrarianWebServiceStub$AddUser$Factory.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/20/trunk/Axis2WebServices/WebContent/WEB-INF/services/LibrarianWebService/com/webservices/LibrarianWebServiceStub$AddUser$Factory.class
+END
